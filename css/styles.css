@@ -1,0 +1,21 @@
+body {
+  background-color: powderblue;
+}
+
+h1,
+h3 {
+  color: #66BFBF;
+}
+
+hr {
+  background-color: powderblue;
+  border-style: none;
+  border-top-style: dotted;
+  border-top-color: white;
+  /* same as
+  border-style: dotted none none none;
+  border-color: white;
+  */
+  border-width: 5px;
+  width: 3%;
+}
